@@ -1,4 +1,4 @@
--- Homework 10, Introduction to SQL
+-- Homework 07, Introduction to SQL
 -- Joseph Moravitz
 
 -- Setup
