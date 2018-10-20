@@ -1,2 +1,2 @@
-# gtdata-homework-10-Joseph
-Homework 10 - "" MySQL
+# gtdata-homework-07-Joseph
+Homework 07 - "" MySQL
